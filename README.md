@@ -6,7 +6,7 @@ A modern, responsive, and interactive 3D portfolio website built for showcasing 
 
 ## 🌐 Live Demo & Preview
 
-- **Live URL:** 
+- **Live URL:** https://broad-wildflower-1b3c.anshuldeepbajpai.workers.dev/
 - **Author:** Anshul Deep Bajpai
 - **LinkedIn:** [anshul-deep-bajpai](https://www.linkedin.com/in/anshul-deep-bajpai-441b1b37b)
 
