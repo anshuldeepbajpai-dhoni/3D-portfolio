@@ -6,7 +6,7 @@ A modern, responsive, and interactive 3D portfolio website built for showcasing 
 
 ## 🌐 Live Demo & Preview
 
-- **Live URL:** https://3-d-portfolio-o19w0nrly-anshuldeepbajpai-dhonis-projects.vercel.app/ 
+- **Live URL:** https://3-d-portfolio-dinw49os7-anshuldeepbajpai-dhonis-projects.vercel.app/
 - **Author:** Anshul Deep Bajpai
 - **LinkedIn:** [anshul-deep-bajpai](https://www.linkedin.com/in/anshul-deep-bajpai-441b1b37b)
 
